@@ -1,0 +1,9 @@
+<acl>
+    <page-visuals>
+        <name>Config-Visuals</name>
+        <patterns>
+            <pattern>ui/visuals/*</pattern>
+            <pattern>api/visuals/*</pattern>
+        </patterns>
+    </page-visuals>
+</acl>
